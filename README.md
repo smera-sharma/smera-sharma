@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://github.com/smera-sharma"><img src="assets/banner.svg" alt="Smera Sharma — curiosity, code, creating with purpose" width="100%"></a>
+<a href="https://github.com/smera-sharma"><img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/banner.svg" alt="Smera Sharma — curiosity, code, creating with purpose" width="100%"></a>
 
 <img src="https://readme-typing-svg.demolab.com?font=VT323&size=34&duration=2200&pause=1500&color=7A2E3F&background=FCE6EC&center=true&vCenter=true&width=854&height=64&lines=%3E+learning+how+to+make+technology+matter.;%3E+somewhere+between+AI+and+human+behavior.;%3E+building%2C+breaking%2C+learning%2C+repeating" width="100%" alt="Introduction">
 
@@ -8,11 +8,11 @@
 <a href="https://www.linkedin.com/in/smmera-sharrma-a9a2013a2/"><img src="https://img.shields.io/badge/LinkedIn-7A2E3F?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:smmerasharrma@gmail.com"><img src="https://img.shields.io/badge/Email-7A2E3F?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
-<img src="assets/p-cs.svg" alt="CS Student"> <img src="assets/p-ds.svg" alt="Data Science"> <img src="assets/p-ai.svg" alt="AI Enthusiast">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/p-cs.svg" alt="CS Student"> <img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/p-ds.svg" alt="Data Science"> <img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/p-ai.svg" alt="AI Enthusiast">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-about.svg" alt="A little about me">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-about.svg" alt="A little about me">
 
 </div>
 
@@ -53,9 +53,9 @@ class Smera:
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-curious.svg" alt="Things that keep me curious">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-curious.svg" alt="Things that keep me curious">
 
 </div>
 
@@ -67,9 +67,9 @@ class Smera:
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-research.svg" alt="Beyond building: research">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-research.svg" alt="Beyond building: research">
 
 </div>
 
@@ -87,9 +87,9 @@ I'm particularly interested in research that goes beyond model accuracy and asks
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-built.svg" alt="Things I've built">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-built.svg" alt="Things I've built">
 
 </div>
 
@@ -131,9 +131,9 @@ The idea brings together speech analysis, distress indicators, and intelligent p
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-toolkit.svg" alt="My toolkit">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-toolkit.svg" alt="My toolkit">
 
 <img src="https://skillicons.dev/icons?i=python,java,react,js,html,css,tailwind,fastapi,sqlite,git,github,vscode&perline=6&theme=light" alt="Technologies and tools">
 
@@ -143,9 +143,9 @@ The idea brings together speech analysis, distress indicators, and intelligent p
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-person.svg" alt="The person behind the projects">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-person.svg" alt="The person behind the projects">
 
 </div>
 
@@ -162,16 +162,16 @@ These experiences have taught me that building something meaningful also takes c
 
 <div align="center">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-corner.svg" alt="My GitHub corner">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-corner.svg" alt="My GitHub corner">
 
 <img src="https://github-readme-stats.vercel.app/api?username=smera-sharma&show_icons=true&bg_color=FCE6EC&title_color=7A2E3F&icon_color=7A2E3F&text_color=1A1214&border_color=1A1214" height="165" alt="GitHub stats">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=smera-sharma&layout=compact&bg_color=FCE6EC&title_color=7A2E3F&text_color=1A1214&border_color=1A1214" height="165" alt="Top languages">
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
-<img src="assets/h-connect.svg" alt="Let's connect">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/h-connect.svg" alt="Let's connect">
 
 </div>
 
@@ -186,8 +186,9 @@ Always happy to connect with people who enjoy exchanging ideas, building interes
 
 <i>"Stay curious. Build things. Make them matter."</i>
 
-<img src="assets/divider.svg" alt="" width="60%">
+<img src="https://raw.githubusercontent.com/smera-sharma/smera-sharma/main/divider.svg" alt="" width="60%">
 
 <sub>✦ &nbsp;still figuring it out. still building.&nbsp; ✦</sub>
 
 </div>
+
